@@ -4,4 +4,7 @@ class sum{
 		a=20;
 		b=10;
 		c=a+b;
-		System.out.println(c);}}
+		System.out.println(c);
+
+	}
+            }
